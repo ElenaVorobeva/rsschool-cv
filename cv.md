@@ -29,3 +29,18 @@ Having completed the Front-End Developer professional training course from Yande
 - write reusable code and maintain it;
 - work with API;
 - install and customize webpack;
+
+**Mosh Hamedani — Mastering React**\
+I'm studying this course on my own to have basic knowledge about React. There we create different apps to understand how they work.
+
+## Higher education (bachelor)
+
+**Saint-Petersburg State University of Aerospace Instrumentation (SUAI)**\
+Translation and Translation Studies, Linguist, Interpreter, Translator\
+Year of graduation — 2019
+
+## Languages
+
+Russian — Native\
+English — C1 — Advanced\
+French — B1 — Intermediate
