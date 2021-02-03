@@ -10,3 +10,22 @@ helene3129@gmail.com<br>
 I decided to change the field I’m working in a year ago for I no longer had any interest to develop spoken languages as much as coding ones.
 
 I completed the Front-End Developer professional training course and now I want to get some real experience.
+
+## Key skills
+
+`HTML` `CSS` `JavaScript` `Webpack` `Git` `React` `Figma` `OOP` `BEM` `ES6`
+
+## My projects
+
+- [NewsAnalyzer](https://github.com/ElenaVorobeva/Diploma) is website which shows you the news for the last week according to your search word. Even though the website is in Russian it’s still possible to search the news in other languages.
+- [Vidly app](https://github.com/ElenaVorobeva/vidly-app) is a movie-list app with pagination and sorting options. This is a project I’m working on by myself to study React.
+
+## Courses
+
+**Yandex.Praktikum**\
+Having completed the Front-End Developer professional training course from Yandex School of Data Analysis I learned to:
+
+- create responsive and adaptive design;
+- write reusable code and maintain it;
+- work with API;
+- install and customize webpack;
